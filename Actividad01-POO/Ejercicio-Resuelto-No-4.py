@@ -7,4 +7,4 @@ ageAlberto = 2*(ageJuan/3)
 ageAna = 4*(ageJuan/3)
 ageMama = ageAlberto + ageJuan + ageAna
 
-print(f'La edades son: Alberto: {int(ageAlberto)}, Juan: {int(ageJuan)}, Ana: {int(ageAna)}, Mama: {int(ageMama)}')
+print(f'La edades son: Alberto: {int(ageAlberto)}, Juan: {ageJuan}, Ana: {int(ageAna)}, Mama: {int(ageMama)}')
