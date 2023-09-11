@@ -43,7 +43,7 @@ class MatriculaU:
             pagmat = int(pagmat + (pat * 0.03))
             self.etiqueta_resultado.config(text=f'El estudiante con número de inscripción: {ni}\nNombre: {nom}\nDebe pagar ${pagmat}')
         else:
-            self.etiqueta_resultado.config(text=f'El estudiante con número de inscripcion: {ni}\nNombre: {nom}\nDebe pagar ${pagmat}')
+            self.etiqueta_resultado.config(text=f'El estudiante con número de inscripción: {ni}\nNombre: {nom}\nDebe pagar ${pagmat}')
 
 root = tk.Tk()
 root.title("Ejercicio resuelto No 10")
