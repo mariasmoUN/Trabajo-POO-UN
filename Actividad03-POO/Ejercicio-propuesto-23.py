@@ -1,4 +1,4 @@
-""" Ejercicio propuesto No 22,
+""" Ejercicio propuesto No 23,
  Realizado por Mariana Arias Montoya """
 
 import math
