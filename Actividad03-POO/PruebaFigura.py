@@ -1,3 +1,6 @@
+""" Ejercicio PruebaFiguras,
+ Realizado por Mariana Arias Montoya """
+
 import tkinter as tk
 from tkinter import ttk
 
